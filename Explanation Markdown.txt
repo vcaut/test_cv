@@ -1,0 +1,23 @@
+Markdown Markup Elements Used in CV
+
+1. Headings (#)
+Markdown uses # for headings. The number of # symbols determines the heading level.
+# Violeta C. Cautín Epifani, PhD  (H1 - Main Title)
+## Work Experience  (H2 - Section Titles)
+
+2. Bold Text (**text**)
+**Internship as Automation Engineer**
+
+3. Lists (- unordered)
+- Spanish – Native
+- English – C1
+- German – B1
+
+4. Horizontal Line (---) for section divider
+
+5. Line Breaks (double space)
+
+6. Inline Italics (*text*)
+*Estudios Filológicos, 62.*
+
+
