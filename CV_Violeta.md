@@ -42,5 +42,17 @@
 
 ## Publications
 
-- **Cautín-Epifani, V., et al.** (in press). Pre-service teachers’ beliefs regarding the use of Chilean voseo. *Círculo de Lingüística Aplicada.*  
-- **Cautín-Epifani, V. & Gladic, J.** (2018). Nominal forms of address in written digital discourse. *Estudios Filológicos, 62.*  
+- **Cautín-Epifani, V., Gladic, J., González, C. & Arellano, R.** (in press). Pre-service teachers’ beliefs regarding the use of Chilean *voseo* in daily life and educational context. *Círculo de Lingüística Aplicada.*
+- **Cautín-Epifani, V., Arellano, R., Tudela, R. & Gladic, J.** (2022). Pre-service teachers’ beliefs regarding reading in L2. Theoretical basis and a research proposal. *Estudios Pedagógicos, 46.*
+- **Cautín-Epifani, V. & Gladic, J.** (2018). Nominal forms of address in written digital discourse: an overview of their occurrence in relation to sex and age of speakers from Iquique (Chile). *Estudios Filológicos, 62.*
+- **Cautín-Epifani, V. & Gladic, J.** (2018). Nominal forms of address in the Facebook Biography of speakers from Iquique (Chile). *Tonos Digital, 35.*
+- **Cautín-Epifani, V. & Gladic, J.** (2018). Object formulation patterns in research articles of linguistics and biotechnology written in English. *Linguagem em Discurso, 18.*
+- **Cautín-Epifani, V. & Rivadeneira, M.** (2018). Sociolinguistic variation of Chilean verbal *voseo* in written interactions published in Facebook Biography. *Onomázein, special issue.*
+- **Gladic, J. & Cautín-Epifani, V.** (2018). Relationship among comprehension levels and the predominance of semiotic systems. A look into multimodal discourse comprehension. *Estudios Pedagógicos, 44.*
+- **Gladic, J., Cautín-Epifani, V. & González, C.** (2017). Comprehension levels of linguistic texts: an overview of disciplinary academic discourse. *Language, Education and Culture Journal, 4.*
+- **Gladic, J. & Cautín-Epifani, V.** (2016). An overview of multimodal models of comprehension and learning from text. *Revista Literatura y Lingüística, 33.*
+- **Cautín-Epifani, V.** (2015). Virtual power and address forms in computer-mediated communication: an exploratory research in a communicative virtual network. *Revista Forma y Función, 28.*
+- **Cautín-Epifani, V.** (2015). Use of null and overt first-person pronouns in oral productions of learners of Spanish. *Revista Literatura y Lingüística, 31.*
+- **Cautín-Epifani, V.** (2014). Critical discourse analysis: a discussion about its relevance. *Language, Education and Culture Journal, 2.*
+- **Cautín-Epifani, V.** (2014). Discourse comprehension and Event-Indexing model. *Revista Literatura y Lingüística, 29.*
+- **Cautín-Epifani, V.** (2012). Updating of Situation Model: role of backgrounded information and processes involved. An overview through here and now vs. memory-based approaches. *Logos: Revista de Lingüística, Filosofía y Literatura, 22.*   
