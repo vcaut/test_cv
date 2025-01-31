@@ -1,0 +1,52 @@
+Three ways to integrate CSS into HTML:
+
+1. Inline CSS --> applies styles directly within an HTML tag
+
+<p style="color: blue; font-size: 18px;">This paragraph uses inline CSS.</p>
+
+2. Internal CSS --> uses a <style> block inside the HTML document
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal CSS Example</title>
+    <style>
+        p {
+            color: green;
+            font-size: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>This paragraph uses internal CSS.</p>
+</body>
+</html>
+
+
+3. External CSS --> links to a separate CSS file
+
+CSS file: styles.css
+p {
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+html file: 
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>External CSS Example</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <p>This paragraph uses external CSS.</p>
+</body>
+</html>
